@@ -25,7 +25,7 @@ To get started with Beatbox, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <YOUR_GIT_URL>
+   git clone https://github.com/prabhatpushp/beatbox
    cd beatbox
    ```
 
